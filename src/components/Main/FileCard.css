@@ -1,0 +1,79 @@
+
+
+.filecard__div{
+    
+    border-bottom: 50px;
+    border-bottom: 1px solid black;
+    width:250px;
+    height: 300px;
+
+}
+
+.card__link{
+    text-decoration: none;
+}
+
+.item__div{
+    
+    display: flex;
+    flex-direction: column;
+    width: 550px;
+    height: 50px;
+    margin-top: 15px;
+}
+
+
+.fileicon__div{
+    text-align: center;
+    width:250px;
+    border:1px solid pink;
+    height: 200px;
+  
+}
+
+.file__icon{
+    width:80%;
+    margin:auto;
+  
+}
+
+.card__icons{
+    width: 250px;
+    height:200px;
+}
+.card__icon_image{
+    width: 250px;
+    height:200px;
+}
+
+.display__card{
+    width:250px;
+    height: 300px;
+    
+}
+
+.text__details{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    margin-top: 3px;
+}
+
+.display__items{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.top__card{
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.top__card  Button{
+    width: 100%;
+}
+
+.top__card > a{
+    width:100%;
+    text-decoration: none;
+}
+

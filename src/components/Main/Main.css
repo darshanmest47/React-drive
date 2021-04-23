@@ -1,0 +1,40 @@
+
+
+.first__div{
+    margin-top: 10px;
+   
+}
+
+.firstdiv__card{
+    margin: auto;
+    width:300px;
+    padding: 20px;
+    text-align: center;
+  
+   
+
+}
+
+.firstdiv__card > input{
+    margin: auto;
+    
+}
+
+.uploadcancel__button{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.cancel__button , .upload__button {
+
+    width: 30px;
+
+}
+
+.upload__div{
+    margin:  20px;
+    
+    text-align: center;
+}
